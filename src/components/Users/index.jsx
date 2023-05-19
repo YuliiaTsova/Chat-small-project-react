@@ -15,14 +15,6 @@ export const Users = ({ items, invited, onClickInvite, onClickSend }) => {
             onClickInvite={onClickInvite}
           />
         ))}
-        {items.map((el) => (
-          <User
-            key={el.id}
-            {...el}
-            isInvited={invited.includes(el.id)}
-            onClickInvite={onClickInvite}
-          />
-        ))}
       </ul>
 
       <Button

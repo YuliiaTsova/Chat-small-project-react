@@ -18,7 +18,7 @@ body {
 .App {
   max-width: 400px;
   height: 630px;
-  overflow-y: auto;
+  // overflow-y: auto;
   margin: 50px auto;
   background-color: #fff;
   border-radius: 30px;
@@ -51,10 +51,12 @@ body {
 .users-list {
   list-style: none;
   padding: 0;
-  margin: 0;
-  overflow: auto;
-  height: calc(100% - 130px);
-  padding: 20px 0;
+  margin: 15px 0 15px 0;
+  overflow-y: auto;
+  height: 420px;
+  //overflow: auto;
+  // height: calc(100% - 130px);
+  padding: 10px 0;
   @media (max-width: 360px) {
     font-size: 16px;
   }
@@ -63,6 +65,7 @@ body {
     align-items: center;
     justify-content: space-between;
     margin-bottom: 15px;
+    padding-right: 10px;
 
     & > div {
       display: flex;
