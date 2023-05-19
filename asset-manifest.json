@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.095b7e9d.css",
-    "main.js": "/static/js/main.89dc883a.js",
-    "static/media/success.svg": "/static/media/success.a15b9a8a62a5d415b97db4047d9e71e6.svg",
-    "static/media/plus.svg": "/static/media/plus.1931cf72fa3019e723886b136ffe0eee.svg",
-    "index.html": "/index.html",
-    "static/media/minus.svg": "/static/media/minus.494f644a0286985edebe0fb3f79390a0.svg",
-    "main.095b7e9d.css.map": "/static/css/main.095b7e9d.css.map",
-    "main.89dc883a.js.map": "/static/js/main.89dc883a.js.map"
+    "main.css": "/Chat-small-project-react/static/css/main.095b7e9d.css",
+    "main.js": "/Chat-small-project-react/static/js/main.85976383.js",
+    "static/media/success.svg": "/Chat-small-project-react/static/media/success.a15b9a8a62a5d415b97db4047d9e71e6.svg",
+    "index.html": "/Chat-small-project-react/index.html",
+    "static/media/plus.svg": "/Chat-small-project-react/static/media/plus.1931cf72fa3019e723886b136ffe0eee.svg",
+    "static/media/minus.svg": "/Chat-small-project-react/static/media/minus.494f644a0286985edebe0fb3f79390a0.svg",
+    "main.095b7e9d.css.map": "/Chat-small-project-react/static/css/main.095b7e9d.css.map",
+    "main.85976383.js.map": "/Chat-small-project-react/static/js/main.85976383.js.map"
   },
   "entrypoints": [
     "static/css/main.095b7e9d.css",
-    "static/js/main.89dc883a.js"
+    "static/js/main.85976383.js"
   ]
 }
