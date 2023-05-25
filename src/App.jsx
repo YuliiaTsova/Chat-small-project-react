@@ -77,7 +77,6 @@ function App() {
           {filteredUsers.length > 0 ? (
             <Users
               items={filteredUsers}
-              // isLoading={isLoading}
               invited={invitedUsers}
               onClickInvite={onClickInvite}
               onClickSend={onClickSend}

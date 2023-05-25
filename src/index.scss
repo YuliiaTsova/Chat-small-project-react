@@ -18,7 +18,6 @@ body {
 .App {
   max-width: 400px;
   height: 630px;
-  // overflow-y: auto;
   margin: 50px auto;
   background-color: #fff;
   border-radius: 30px;
@@ -54,8 +53,6 @@ body {
   margin: 15px 0 15px 0;
   overflow-y: auto;
   height: 420px;
-  //overflow: auto;
-  // height: calc(100% - 130px);
   padding: 10px 0;
   @media (max-width: 360px) {
     font-size: 16px;

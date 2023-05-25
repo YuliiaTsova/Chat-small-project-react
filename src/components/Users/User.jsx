@@ -28,7 +28,6 @@ export const User = ({
     </div>
     <img
       className="action"
-      // src={plus}
       src={isInvited ? minus : plus}
       alt="Action"
       aria-label="add user"
